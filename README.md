@@ -12,7 +12,8 @@ There are three publications and a dissertation which can be found in the public
 For the Mathematica code pertaining to the light quark masses, please cite *both*:
 
 Dominguez, C.A., Mes, A. and Schilcher, K., 2019. Up-and down-quark masses from QCD sum rules. *Journal of High Energy Physics*, 2019(2), p.57.
-```@article{dominguez2019up,
+```
+  @article{dominguez2019up,
   title={Up-and down-quark masses from QCD sum rules},
   author={Dominguez, CA and Mes, A and Schilcher, K},
   journal={Journal of High Energy Physics},
@@ -27,7 +28,8 @@ Dominguez, C.A., Mes, A. and Schilcher, K., 2019. Up-and down-quark masses from 
 *and*
 
 Mes, A.K., 2019, July. Precision Determination of the Light Quark Masses from QCD Finite Energy Sum Rules. *Journal of Physics: Conference Series* (Vol. 1271, No. 1, p. 012021). IOP Publishing.
-```@inproceedings{mes2019precision,
+```
+  @inproceedings{mes2019precision,
   title={Precision Determination of the Light Quark Masses from QCD Finite Energy Sum Rules},
   author={Mes, Alexes K},
   booktitle={Journal of Physics: Conference Series},
